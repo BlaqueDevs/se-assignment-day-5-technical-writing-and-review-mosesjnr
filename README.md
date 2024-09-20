@@ -4,84 +4,84 @@
 ## 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
 
 Understanding our audience's expertise level significantly shapes how you present technical information in several ways:
-1) Language and Terminology:
+1) LANGUAGE AND TERMINOLOGY:
 1. Tech Experts: You can use industry-specific jargon and technical terms, assuming a certain level of 
-    familiarity with concepts.
+   familiarity with concepts.
 2. Regular Folks: Simplified language is essential, avoiding jargon and explaining terms in layman's language to 
-    ensure comprehension.
+   ensure comprehension.
    
-## Depth of Explanation:
-1) Tech Experts: You can dive deeply into complex concepts, provide in-depth analyses, and assume the audience 
-    can follow advanced discussions without excessive background information.
-2) Regular Folks: Present information in a more fundamental way, breaking it down into basic concepts and 
-    providing context for understanding.
+2) DEPTH OF EXPLANATION:
+1. Tech Experts: You can dive deeply into complex concepts, provide in-depth analyses, and assume the audience 
+   can follow advanced discussions without excessive background information.
+2. Regular Folks: Present information in a more fundamental way, breaking it down into basic concepts and 
+   providing context for understanding.
    
-## Use of Examples and Analogies:
-1) Tech Experts: Illustrations can be more technical and may reference specific technologies or processes that 
-    the audience may already know.
-2) Regular Folks: Use relatable examples and analogies from everyday life to make complex ideas more accessible 
-    and understandable.
+3) USE OF EXAMPLES AND ANALOGIES:
+1. Tech Experts: Illustrations can be more technical and may reference specific technologies or processes that 
+   the audience may already know.
+2. Regular Folks: Use relatable examples and analogies from everyday life to make complex ideas more accessible 
+   and understandable.
    
-## Visual Aids and Tools:
-1) Tech Experts: Can leverage more advanced tools and diagrams that assume a certain level of pre-understanding.
-2) Regular Folks: Use straightforward visuals that clearly convey the message without requiring prior knowledge.
+4) VISUAL AIDS AND TOOLS:
+1. Tech Experts: Can leverage more advanced tools and diagrams that assume a certain level of pre-understanding.
+2. Regular Folks: Use straightforward visuals that clearly convey the message without requiring prior knowledge.
 
-## Content Structure:
-1) Tech Experts: A more linear and technical structure works well, potentially diving straight into the problem- 
-    solving aspects.
-2) Regular Folks: A more narrative approach might be beneficial, introducing concepts slowly and building on 
-    familiar ideas before introducing complexity.
+5) CONTENT STRUCTURE:
+1. Tech Experts: A more linear and technical structure works well, potentially diving straight into the problem- 
+   solving aspects.
+2. Regular Folks: A more narrative approach might be beneficial, introducing concepts slowly and building on 
+   familiar ideas before introducing complexity.
    
-## Feedback and Engagement:
-1) Tech Experts: Encouraging technical discussions and questions may be more productive in engaging the audience.
-2) Regular Folks: Foster an open atmosphere where questions are welcomed and this helps in clarifying 
+6) FEEDBACK AND ENGAGEMENT:
+1. Tech Experts: Encouraging technical discussions and questions may be more productive in engaging the audience.
+2. Regular Folks: Foster an open atmosphere where questions are welcomed and this helps in clarifying 
    misunderstandings along the way.
 By tailoring our presentation based on the audience's expertise, we enhance understanding, retention, and the overall effectiveness of the communication.
 
 ## 2. What are some strategies to tailor your content to different audience types?
 
 To effectively tailor your content to different audience types, consider the following strategies:
-## Know Your Audience:
-1) Conduct surveys or interviews to understand the audience’s background, interests, and expertise level.
-2) Analyze demographic information and preferences to tailor the content appropriately.
+1) KNOW YOUR AUDIENCE:
+1. Conduct surveys or interviews to understand the audience’s background, interests, and expertise level.
+2. Analyze demographic information and preferences to tailor the content appropriately.
 
-## Adjust the Language:
-1) Use jargon and technical terms for expert audiences, while simplifying language and avoiding acronyms or 
+2) ADJUST THE LANGUAGE:
+1. Use jargon and technical terms for expert audiences, while simplifying language and avoiding acronyms or 
    technical language for general audiences.
-2) Define any necessary terms when addressing non-experts.
+2. Define any necessary terms when addressing non-experts.
 
-## Modify Content Depth:
-1) For experts, delve into complex details, advanced concepts, and data-driven insights.
-2) For non-experts, provide foundational information, overviews, and straightforward explanations.
+3) MODIFY CONTENT DEPTH:
+1. For experts, delve into complex details, advanced concepts, and data-driven insights.
+2. For non-experts, provide foundational information, overviews, and straightforward explanations.
 
-## Incorporate Relevant Examples and Analogies:
-1) Use industry-specific examples and case studies for technical audiences.
-2) Choose relatable analogies or narratives for general audiences that connect with their everyday experiences.
+4) INCORPORATE RELEVANT EXAMPLES AND ANALOGIES:
+1. Use industry-specific examples and case studies for technical audiences.
+2. Choose relatable analogies or narratives for general audiences that connect with their everyday experiences.
 
-## Use Visual Aids Appropriately:
-1) Design detailed charts, graphs, and technical diagrams for expert audiences to support complex data.
-2) Utilize simple infographics, images, and straightforward visual tools for non-experts to enhance understanding 
+5) USE VISUAL AIDS APPROPRIATELY:
+1. Design detailed charts, graphs, and technical diagrams for expert audiences to support complex data.
+2. Utilize simple infographics, images, and straightforward visual tools for non-experts to enhance understanding 
    without overwhelming them.
    
-## Choose the Right Structure:
-1) For experts, present content in a linear or hierarchical format that allows for quick access to detailed 
+6) CHOOSE THE RIGHT STRUCTURE:
+1. For experts, present content in a linear or hierarchical format that allows for quick access to detailed 
    information.
-2) For general audiences, adopt a storytelling approach or logical structure that gradually builds understanding.
+2. For general audiences, adopt a storytelling approach or logical structure that gradually builds understanding.
 
-## Engage the Audience:
-1) Use polls, Q&A sessions, or discussions for expert audiences to stimulate debate and engage in their interests.
-2) Foster interaction through relatable questions or scenarios for general audiences, encouraging them to relate 
+7) ENGAGE THE AUDIENCE:
+1. Use polls, Q&A sessions, or discussions for expert audiences to stimulate debate and engage in their interests.
+2. Foster interaction through relatable questions or scenarios for general audiences, encouraging them to relate 
    the content to their own experiences.
    
-## Provide Additional Resources:
-1) Offer advanced references, research papers, or technical documentation for expert audiences to pursue further 
+8) PROVIDE ADDITIONAL RESOURCES:
+1. Offer advanced references, research papers, or technical documentation for expert audiences to pursue further 
    learning.
-2) Provide glossaries, FAQs, or recommended readings for general audiences to help reinforce learning.
+2. Provide glossaries, FAQs, or recommended readings for general audiences to help reinforce learning.
 
-## Solicit Feedback:
-1) Encourage feedback from different audience segments to refine your approach and address specific needs or 
+9 SOLICIT FEEDBACK:
+1. Encourage feedback from different audience segments to refine your approach and address specific needs or 
    misunderstandings.
-2) Use feedback to adjust future presentations or materials based on what was helpful or confusing.
+2. Use feedback to adjust future presentations or materials based on what was helpful or confusing.
 By implementing these strategies, we can create content that resonates with diverse audience types and effectively communicates our message.
 
 ## 3. How can you gauge the existing knowledge of your audience to avoid overwhelming them with jargon?
