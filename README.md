@@ -4,10 +4,10 @@
 ## 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
 
 Understanding our audience's expertise level significantly shapes how you present technical information in several ways:
-## Language and Terminology:
-1) Tech Experts: You can use industry-specific jargon and technical terms, assuming a certain level of 
+1) Language and Terminology:
+1 Tech Experts: You can use industry-specific jargon and technical terms, assuming a certain level of 
     familiarity with concepts.
-2) Regular Folks: Simplified language is essential, avoiding jargon and explaining terms in layman's language to 
+2 Regular Folks: Simplified language is essential, avoiding jargon and explaining terms in layman's language to 
     ensure comprehension.
    
 ## Depth of Explanation:
